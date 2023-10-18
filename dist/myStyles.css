@@ -1,0 +1,12 @@
+body {
+    padding-top: 90px;
+}
+
+#navbar {
+    background-color: #232D3F;
+}
+
+#hero {
+    background-image: url(/dist/img/hero-bg.svg);
+    background-size: cover;
+}
